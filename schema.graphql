@@ -4,7 +4,10 @@ type Query {
 }
 
 """
-List down all fields returned from the provided APIs
+The result of the Etherscan API
 """
 type ETH_RESULT {
+  status: String!
+  message: String!
+  result: Float!
 }

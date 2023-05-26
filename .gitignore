@@ -1,0 +1,36 @@
+# Dependency directories
+/node_modules
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Debugging
+.vscode/
+*.swp
+
+# Build output
+/dist
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editors
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw??
